@@ -1,0 +1,5 @@
+D:\Projects\EF_TEST\EF_Models\bin\Debug\EF_Models.dll
+D:\Projects\EF_TEST\EF_Models\bin\Debug\EF_Models.pdb
+D:\Projects\EF_TEST\EF_Models\obj\Debug\EF_Models.csproj.CoreCompileInputs.cache
+D:\Projects\EF_TEST\EF_Models\obj\Debug\EF_Models.dll
+D:\Projects\EF_TEST\EF_Models\obj\Debug\EF_Models.pdb
